@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/usuario/Squarebits/Projects/UtilsBase/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cc9484a3d512ee7ac67aed56443eaad03d4396fe">
+        <dex dex="/Users/usuario/Squarebits/Projects/UtilsBase/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_09fefc68af2897d7af5b1ac7589245c8b961f744/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/usuario/.android/build-cache/063f0d20a3139871ecc44a38f661d6f5089c0107/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3d7ba2eb647e082275b2a65ddcf2233d4c1e3c1a">
+        <dex dex="/Users/usuario/Squarebits/Projects/UtilsBase/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a83581d88b25602a8a0f754c2708fa48d223b0a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/usuario/Squarebits/Projects/UtilsBase/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/usuario/Squarebits/Projects/UtilsBase/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ee4049c500b9da5258e600e6b25345eae06425e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/usuario/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/usuario/Squarebits/Projects/UtilsBase/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.0_b5096f20fa120ce32c2fee49d8b5c6fe85735a30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/usuario/.android/build-cache/ec2fc0cab415ce17bc5417c523d71c8d5296abd5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f1cec6e31bf4810aa5639b065dd466565ae08ab9">
+        <dex dex="/Users/usuario/Squarebits/Projects/UtilsBase/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ad48f643e84e66a2339664c49330d3248e10d79a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/usuario/.android/build-cache/a1dda613ea35e81916c2169c5438ddbc8a951faa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7eb15124ac89414aabc6293471093a94e7d4dcba">
+        <dex dex="/Users/usuario/Squarebits/Projects/UtilsBase/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ba53df2d252e67efeb44582876bae5f35e8f86ab/classes.dex" />
+    </item>
+
+</items>
